@@ -1,1 +1,13 @@
-{"v":1,"feeders":[]}
+{
+  "v": 1,
+  "feeders": [
+    {
+      "name": "FeederYoutube",
+      "version": "0.96.02",
+      "builtAt": "2026-08-29T04:54:27Z",
+      "sha256": "e0d24cd89846e66efd9ae04c629d4f4f034fcf8148875b036cbf5a9225fc5b17",
+      "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederYoutube-v0.96.02/yomiwakechan2-FeederYoutube-0.96.02.zip",
+      "note": null
+    }
+  ]
+}

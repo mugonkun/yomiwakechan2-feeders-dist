@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "feeders": [
+    {
+      "name": "FeederTwicas",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederTwicas.json"
+    },
+    {
+      "name": "FeederTwicasApi",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederTwicasApi.json"
+    },
+    {
+      "name": "FeederYoutube",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederYoutube.json"
+    }
+  ]
+}

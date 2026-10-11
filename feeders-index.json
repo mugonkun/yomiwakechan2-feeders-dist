@@ -16,6 +16,18 @@
     {
       "name": "FeederYoutubeBrowser",
       "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederYoutubeBrowser.json"
+    },
+    {
+      "name": "FeederTwitch",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederTwitch.json"
+    },
+    {
+      "name": "FeederWhowatch",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederWhowatch.json"
+    },
+    {
+      "name": "FeederMixch",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederMixch.json"
     }
   ]
 }

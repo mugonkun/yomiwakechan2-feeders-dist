@@ -28,6 +28,10 @@
     {
       "name": "FeederMixch",
       "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederMixch.json"
+    },
+    {
+      "name": "FeederTwicasBrowser",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederTwicasBrowser.json"
     }
   ]
 }

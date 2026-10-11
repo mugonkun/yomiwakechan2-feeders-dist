@@ -32,6 +32,10 @@
     {
       "name": "FeederTwicasBrowser",
       "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederTwicasBrowser.json"
+    },
+    {
+      "name": "FeederNicolive",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederNicolive.json"
     }
   ]
 }

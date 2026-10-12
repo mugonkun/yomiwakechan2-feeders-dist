@@ -2,8 +2,8 @@
   "name": "FeederYoutube",
   "note": null,
   "v": 1,
-  "version": "0.96.11",
-  "builtAt": "2026-10-11T10:39:18Z",
-  "sha256": "85b86608cb87aafe6272ade87f4a9b9ed4d97f84d134fd3b92b6791ca85a22ba",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederYoutube-v0.96.11/yomiwakechan2-FeederYoutube-0.96.11.zip"
+  "version": "0.96.12",
+  "builtAt": "2026-10-12T17:40:31Z",
+  "sha256": "f9ce7bc2baaf65851565261c22aa91e177a0794d75859632634d743d98628a2a",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederYoutube-v0.96.12/yomiwakechan2-FeederYoutube-0.96.12.zip"
 }

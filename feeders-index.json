@@ -36,6 +36,14 @@
     {
       "name": "FeederNicolive",
       "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederNicolive.json"
+    },
+    {
+      "name": "FeederKick",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederKick.json"
+    },
+    {
+      "name": "FeederMirrativ",
+      "manifestUrl": "https://raw.githubusercontent.com/mugonkun/yomiwakechan2-feeders-dist/main/FeederMirrativ.json"
     }
   ]
 }

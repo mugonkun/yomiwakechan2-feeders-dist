@@ -1,9 +1,9 @@
 {
-  "v": 1,
   "name": "FeederMixch",
-  "version": "0.96.01",
-  "builtAt": "2026-10-11T02:19:42Z",
-  "sha256": "2a0c38dfee2c7e5612aa8a1faebde4a23ffef582d277c1339fc5dfd94c520f36",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederMixch-v0.96.01/yomiwakechan2-FeederMixch-0.96.01.zip",
-  "note": null
+  "note": null,
+  "v": 1,
+  "version": "0.96.02",
+  "builtAt": "2026-10-12T17:40:58Z",
+  "sha256": "b61e1779a5ecca5b3a833b78375258402df4336d9707b1237d26d46356d3899f",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederMixch-v0.96.02/yomiwakechan2-FeederMixch-0.96.02.zip"
 }

@@ -1,9 +1,9 @@
 {
-  "v": 1,
   "name": "FeederTwicasBrowser",
-  "version": "0.96.01",
-  "builtAt": "2026-10-11T03:21:06Z",
-  "sha256": "397ddb1213891dfd8d6c12f718fb75c7f66af9d48ee5bbde9353b3497f8ead7c",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederTwicasBrowser-v0.96.01/yomiwakechan2-FeederTwicasBrowser-0.96.01.zip",
-  "note": null
+  "note": null,
+  "v": 1,
+  "version": "0.96.02",
+  "builtAt": "2026-10-12T17:40:15Z",
+  "sha256": "47b3a723102740dd735ed0564628672169eaddb23b1f9a9b0bfb50d08a1f61ac",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederTwicasBrowser-v0.96.02/yomiwakechan2-FeederTwicasBrowser-0.96.02.zip"
 }

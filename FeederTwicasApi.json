@@ -2,8 +2,8 @@
   "name": "FeederTwicasApi",
   "note": null,
   "v": 1,
-  "version": "0.96.19",
-  "builtAt": "2026-09-11T18:10:11Z",
-  "sha256": "7652a373363a7806ad56687dda050921761ca370e881b9abd5f122df2c8c55f5",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederTwicasApi-v0.96.19/yomiwakechan2-FeederTwicasApi-0.96.19.zip"
+  "version": "0.96.20",
+  "builtAt": "2026-10-12T17:40:05Z",
+  "sha256": "284fad1563164bada6d767147d31e668c03f36646918dda7dac3efa0f7f25eb9",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederTwicasApi-v0.96.20/yomiwakechan2-FeederTwicasApi-0.96.20.zip"
 }

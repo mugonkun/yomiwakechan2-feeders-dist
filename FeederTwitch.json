@@ -2,8 +2,8 @@
   "name": "FeederTwitch",
   "note": null,
   "v": 1,
-  "version": "0.96.03",
-  "builtAt": "2026-10-12T17:40:40Z",
-  "sha256": "055a76a49c52870b0a3f101fc938eee52fa5be05af21b78900507faf62024138",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederTwitch-v0.96.03/yomiwakechan2-FeederTwitch-0.96.03.zip"
+  "version": "0.96.04",
+  "builtAt": "2026-10-15T01:51:07Z",
+  "sha256": "231c3b2ef67d6434d06273d5315d3754127bcc24de6b43171cb93bad6f76cf3a",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederTwitch-v0.96.04/yomiwakechan2-FeederTwitch-0.96.04.zip"
 }

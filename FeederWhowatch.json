@@ -2,8 +2,8 @@
   "name": "FeederWhowatch",
   "note": null,
   "v": 1,
-  "version": "0.96.03",
-  "builtAt": "2026-10-15T01:51:16Z",
-  "sha256": "7d1f5f826840d8d5e5e80263ed0d35b4e7d15f595c3b2df1c08da97003d7a2fa",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederWhowatch-v0.96.03/yomiwakechan2-FeederWhowatch-0.96.03.zip"
+  "version": "0.96.06",
+  "builtAt": "2026-11-10T17:11:09Z",
+  "sha256": "69a17edca58a92401a8c667272d2385ae8548dc1cc7b72bd3adcd4a5f3e77116",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederWhowatch-v0.96.06/yomiwakechan2-FeederWhowatch-0.96.06.zip"
 }

@@ -2,8 +2,8 @@
   "name": "FeederKick",
   "note": null,
   "v": 1,
-  "version": "0.96.03",
-  "builtAt": "2026-10-15T01:51:35Z",
-  "sha256": "d424b05dc5e85ef671a961a6bd4b30ec435d834f0344186f2ce0c769c5868c23",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederKick-v0.96.03/yomiwakechan2-FeederKick-0.96.03.zip"
+  "version": "0.96.06",
+  "builtAt": "2026-11-10T17:10:58Z",
+  "sha256": "b4a60a451a6780814035ecd23d3afe00a1b00bf788871c9abc00cf298eea22e4",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederKick-v0.96.06/yomiwakechan2-FeederKick-0.96.06.zip"
 }

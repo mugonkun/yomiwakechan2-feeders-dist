@@ -2,8 +2,8 @@
   "name": "FeederNicolive",
   "note": null,
   "v": 1,
-  "version": "0.96.04",
-  "builtAt": "2026-10-15T01:51:54Z",
-  "sha256": "cc04a1d709bf85fcce52fadd8c068dd2482c3fe1026ee5bbb8ddf0cf8e643677",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederNicolive-v0.96.04/yomiwakechan2-FeederNicolive-0.96.04.zip"
+  "version": "0.96.07",
+  "builtAt": "2026-11-10T17:10:53Z",
+  "sha256": "87ce4f293a8717da5c001976a9e9f4682eff70a408409367bcb6cfc56d65ad55",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederNicolive-v0.96.07/yomiwakechan2-FeederNicolive-0.96.07.zip"
 }

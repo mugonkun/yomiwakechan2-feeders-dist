@@ -2,8 +2,8 @@
   "name": "FeederMirrativ",
   "note": null,
   "v": 1,
-  "version": "0.96.03",
-  "builtAt": "2026-10-15T01:51:44Z",
-  "sha256": "e921998685f062f0ceb08cdc81ba5cefd742e3a3dfd85b76e00767796972c32d",
-  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederMirrativ-v0.96.03/yomiwakechan2-FeederMirrativ-0.96.03.zip"
+  "version": "0.96.06",
+  "builtAt": "2026-11-10T17:11:06Z",
+  "sha256": "9769a56504107e70b4b8f1b25997339d08271d2ee5604bf23d1bbbcc36fec143",
+  "zipUrl": "https://github.com/mugonkun/yomiwakechan2-feeders-dist/releases/download/feeder-FeederMirrativ-v0.96.06/yomiwakechan2-FeederMirrativ-0.96.06.zip"
 }
